@@ -1,5 +1,5 @@
 # DMAP
-Code for the paper: "Learning De-biased Prototypes for Few-Shot Medical Image Segmentation" 
+Code for the paper id 2728
 
 ![](./overview.png)
 
